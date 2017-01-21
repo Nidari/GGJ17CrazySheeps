@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/TestCharacter/TestMoving.unity
+=======
+- path: Assets/New Scene.unity
+>>>>>>> master
   isLoaded: 1
   isActive: 1
