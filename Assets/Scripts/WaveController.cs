@@ -10,13 +10,17 @@ enum WaveType
 public class WaveController : MonoBehaviour
 {
 
-	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
 		
 	}
 	
-	// Update is called once per frame
-	void Update () {
+	void Update ()
+    {
 		
 	}
+    void OnTriggerStay()
+    {
+        Debug.Log("sjssj");
+    }
 }

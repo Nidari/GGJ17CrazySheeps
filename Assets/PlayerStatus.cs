@@ -12,8 +12,4 @@ public class PlayerStatus : MonoBehaviour
 		
 	}
 
-    void OnTriggerStay()
-    {
-        Debug.Log("suca");
-    }
 }
